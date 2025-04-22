@@ -1,3 +1,4 @@
+![sample1](https://github.com/user-attachments/assets/63677044-c662-4cba-be64-9f31efbbc7f5)
 1. Run the backend "encrypt" application - Spring boot app
     -> clone url and get into your local
     -> Run as Spring boot application 
